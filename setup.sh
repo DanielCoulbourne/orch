@@ -30,6 +30,8 @@ fi
 echo ""
 echo "Installing dependencies..."
 brew install go tmux gh 2>/dev/null || true
+brew tap entireio/tap 2>/dev/null || true
+brew install entireio/tap/entire 2>/dev/null || true
 
 # Check Claude Code
 if ! command -v claude &>/dev/null; then
