@@ -1,0 +1,6 @@
+[submodule "tools/linear-cli"]
+	path = tools/linear-cli
+	url = https://github.com/DanielCoulbourne/linear-cli.git
+[submodule "tools/session-cli"]
+	path = tools/session-cli
+	url = https://github.com/DanielCoulbourne/session-cli.git
