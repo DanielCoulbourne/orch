@@ -1,0 +1,5 @@
+when i ran session orch --resume after quitting this, i got Session "orch" already exists. Use 'session attach orch' to connect.
+
+---
+
+it seemed like it had typed the prompt but not sent it...
